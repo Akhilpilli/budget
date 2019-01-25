@@ -1,0 +1,29 @@
+
+[{
+		"category":"food",
+		"words": ["food",
+			"rice",
+			"pizza",
+			"panipuri",
+			"burger",
+			"biriyani",
+			"breakfast", "lunch", "dinner", "snacks"
+		]
+	},
+	{
+		"category":"cloth",
+		"words": ["cloth","battalu", "dress", "phant", "shirt", "tshirt", "chudidhar", "leggins", "tops", "longdress", "lehanga", "frock", "skirts" ]
+	},
+	{
+		"category":"travel",
+		"words": ["travel","flight", "cabs", "bike", "petrol","bandi", "auto", "bus", "car"]
+	},
+	{
+		"category":"get",
+		"words":["get"] 
+	},
+	{
+		"category":"reset",
+		"words":["reset"]
+	}
+]
